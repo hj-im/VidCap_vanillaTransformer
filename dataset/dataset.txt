@@ -1,0 +1,3 @@
+For test the vanilla model, we upload sample feature.
+
+(About MSVD dataset)
