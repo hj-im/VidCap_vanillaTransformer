@@ -1,5 +1,4 @@
 # VidCap_vanillaTransformer
-upload vanilla vid cap model
+Uploading vanilla transformer video captioning model.
 
-BackBone model is pre-trained C3D
-
+BackBone model is pre-trained C3D. Thanks.
